@@ -30,3 +30,7 @@ color = comando
 2 = cor das letras (verde)
 
 (03) dado.js é o código que gira de forma aleatória um dado com numeros de 1 á 6 quando lançado o comando "node dado.js"
+
+(04) calculadora.js é um codigo que executa as quatro operações matemáticas (adição, subtração, multiplicação e divisão) representada pelos simbolos + (adi), - (sub), * (multi) e / (div).
+
+Quando for ultilizar a calculadora, basta apenas substituir os valores pré estabelecidos para os valores dejados.
