@@ -28,3 +28,5 @@ color 02
 color = comando
 0 = cor do plano de fundo (preto)
 2 = cor das letras (verde)
+
+(03) dado.js é o código que gira de forma aleatória um dado com numeros de 1 á 6 quando lançado o comando "node dado.js"

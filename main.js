@@ -4,4 +4,4 @@ Runner.prototype.gameOver = function () {}
 
 #Codigo Cmd (02)
 
-color
+"color 02"
