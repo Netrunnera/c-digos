@@ -1,5 +1,5 @@
 let numero1 = 10;
-let numero2 = 5;
+let numero2 = 16;
 
 let soma = numero1 + numero2;
 let subtracao = numero1 - numero2;
